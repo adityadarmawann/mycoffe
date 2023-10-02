@@ -58,7 +58,7 @@
 					</script>
 					<span id='ct7' class="text-black d-block"></span>
 				<img src="img/logomyco1.png" alt="" style="width: 270px; height:200px;">
-                <h5 class="headerp text-black">Selamat datang di aplikasi My Coffe!!</h5>
+                <h5 class="headerp text-black">Selamat datang di aplikasi My Coffeee!!</h5>
 				<p class="headerp text-black">Silahkan login</p>
                     <div class="datainput">
                         <form action="ceklogin.php" method="post" autocomplete="off" class="m-3">
